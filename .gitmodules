@@ -1,0 +1,15 @@
+[submodule "single-responsibility"]
+	path = single-responsibility
+	url = https://github.com/Cloud2Shore/single-responsibility.git
+[submodule "open-closed"]
+	path = open-closed
+	url = https://github.com/Cloud2Shore/open-closed.git
+[submodule "liskov-substitution"]
+	path = liskov-substitution
+	url = https://github.com/Cloud2Shore/liskov-substitution.git
+[submodule "interface-segregation"]
+	path = interface-segregation
+	url = https://github.com/Cloud2Shore/interface-segregation.git
+[submodule "dependency-inversion"]
+	path = dependency-inversion
+	url = https://github.com/Cloud2Shore/dependency-inversion.git
